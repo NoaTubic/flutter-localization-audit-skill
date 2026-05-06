@@ -1,0 +1,5 @@
+.DS_Store
+*.log
+node_modules/
+.env
+localization_audit_report.md
