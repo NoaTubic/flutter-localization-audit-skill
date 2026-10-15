@@ -1,5 +1,7 @@
 # Flutter Localization Audit Skill
 
+> Read the article: [Four Claude Code skills to audit a Flutter app](https://medium.com/@noatubic/four-claude-code-skills-to-audit-a-flutter-app-f72823761062)
+
 A Claude Code skill that performs a comprehensive localization audit on a Flutter/Dart project and produces a structured, actionable markdown report.
 
 Covers **8 audit categories** — from hardcoded strings and missing ARB translations to RTL support, plural forms, and locale-unaware date formatting.
